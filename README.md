@@ -47,10 +47,11 @@ Note : after visualising the descriptive data points, we can move towards crossi
 11. Single KPI 3 : Number of deaths in school shootings 
 12. Combined KPIs1-3 : shootings, fatalities and injuries, evolution over time (line)
 13. Forecast : how will the number of shootings and the number of casualties evolve (*note there is not enough data for this forecast to be relevant*)
-14. Shootings and casualties per state (*some states show a higher number of casualties per shooting*)
-15. Fatalities and injuries by shooting location (school, workplace...): shows more injured in schools and military locations. A lot of locations have been classified as "other". 
-16. Weapons obtained legally vs. mental  health signs shown (*doesn't tell us much, most shootings occur with legally acquired guns*)
-17. Weapons obtained legally vs. state (*doesn't tell us much either*)
+14. Geographical evolution over time 
+15. Shootings and casualties per state (*some states show a higher number of casualties per shooting*)
+16. Fatalities and injuries by shooting location (school, workplace...): shows more injured in schools and military locations. A lot of locations have been classified as "other". 
+17. Weapons obtained legally vs. mental  health signs shown (*doesn't tell us much, most shootings occur with legally acquired guns*)
+18. Weapons obtained legally vs. state (*doesn't tell us much either*)
 
 
 ## Dashboards
@@ -69,3 +70,4 @@ Our story includes a commentary of our graphs and dashboards.
 * relate shootings to NRA activity per state (or political/ policy context)
 * relate shootings to religious practice. 
 
+## [Dashboard available here](https://public.tableau.com/app/profile/tatiana.de.feraudy/viz/gun_violence_2/Dashboard4?publish=yes) 
